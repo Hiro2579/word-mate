@@ -4,7 +4,7 @@
 
 # WordMate
 
-https://word-mate-app.vercel.app/
+https://word-mate-xi.vercel.app/
 
 # アプリ概要
 
@@ -88,4 +88,4 @@ https://word-mate-app.vercel.app/
 ### その他
 
 - Githubにpushすると自動でテストが走り、全て合格すると自動でVercelにデプロイします。
-- 主にコンポーネントが正しく表示されているかのテストをしています。（ユニットテスト）
+- 主にAPIとコンポーネントが正しく表示されているかのテストをしています。（ユニットテスト）
